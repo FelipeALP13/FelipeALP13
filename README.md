@@ -1,7 +1,7 @@
 
 # Hello, World! 👋🏽🌎
 
-Eu sou Felipe, tenho 22 anos e sou estudante de Engenharia de Software, atualmente estou no meu 5º período, tenho como foco me tornar um desenvolvedor Full Stack, spu apaixonado por tecnologia e ajudar pessoas, atualmente trabalho como suporte de TI júnior.
+Eu sou Felipe, tenho 22 anos e sou estudante de Engenharia de Software, atualmente estou no meu 5º período, tenho como foco me tornar um desenvolvedor Full Stack, sou apaixonado por tecnologia e ajudar pessoas, atualmente trabalho como suporte de TI júnior.
 
 ## Tecnologias
 
