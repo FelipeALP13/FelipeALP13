@@ -14,7 +14,7 @@ Eu sou Felipe, tenho 22 anos e sou estudante de Engenharia de Software, atualmen
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-## Rede Sociais
+## Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-felipelucena/?trk=opento_sprofile_details)
 
